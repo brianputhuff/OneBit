@@ -4,7 +4,7 @@ This program accepts a .BMP format image file as input and exports a black and w
 
 ## Compiling
 
-I have included a makefile to the open repository for OneBit, however you will still need to download the EasyBMP library (). Once downloaded, put the files found in the repository along with a folder containing the EasyBMP library files into your destination location. The structure should resemble the following:
+I have included a makefile to the open repository for OneBit, however you will still need to download the EasyBMP library (http://easybmp.sourceforge.net/). Once downloaded, put the files found in the repository along with a folder containing the EasyBMP library files into your destination location. The structure should resemble the following:
 ```
 onebit/
        EasyBMP/
