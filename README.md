@@ -1,4 +1,4 @@
-## OneBit
+# OneBit
 
 This program accepts a .BMP format image file as input and exports a black and white .BMP format image. The program renders output as black and white pixels only and uses dithering to simulate shades without gray scale. The program also generates an output text file that depicts the input image using ASCII characters to simulate gray scale. This program uses the EasyBMP Cross-Platform Windows Bitmap Library (http://easybmp.sourceforge.net/). You will need this to compile.
 
