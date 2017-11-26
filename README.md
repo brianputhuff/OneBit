@@ -26,7 +26,7 @@ That should compile and create an executable for OneBit. If you want to compile 
 
 `g++ main.cpp ./EasyBMP/EasyBMP.cpp -o onebit`
 
-##Running
+## Running
 
 After you get the executable, simply run it with one command line argument, the name of the .BMP image file you want to convert. For example:
 
@@ -40,6 +40,3 @@ The ASCII text output will be saved as:
 
 `filename_GS.txt`
 
-##Notes
-
-This information can also be found at http://puthuff.me/onebit.html.
